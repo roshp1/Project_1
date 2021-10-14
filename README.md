@@ -1,6 +1,6 @@
 # Project_1
  
-Group members: Rosh Panesar, Deep Bhojak, and Harmish Panchal
+Group members: Rosh Panesar, Deep Bhojak, and Harmish Panchal. Each member has uploaded a portion of the project. Please retrieve each member's github URL.
 
 Our goal is to create a quant model based on a factor that has a strong positive or negative relationship with the U.S. equity market. Based on the relationship, we can make a buy or sell recommendation on the S&P500 Index. The instrument to buy or sell is the SPY ETF which is an ETF based on the S&P500 Index. 
 
