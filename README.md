@@ -16,7 +16,7 @@ If you google which factors have biggest impact on stock markets, typically thes
 
 We compared and analysed individually these 3 macro factors along with Fed announcements versus the S&P500 to see which one has the biggest impact on financial markets.
 
-Since the Fed’s QE program began after the 2008 financial crisis, we wanted to see if the 3 macro-economic factors had a larger impact on the S&P500 before 2009. This allows us to see if the Fed’s program impacted these three macro-economic factors. Thus, we have 2 databases: pre-2009 and post-2009. We used 2009 as the reference market bottom occurred in 2009.
+Since the Fed’s QE program began after the 2008 financial crisis, we wanted to see if the 3 macro-economic factors had a larger impact on the S&P500 before 2009. This allows us to see if the Fed’s program impacted these three macro-economic factors. Thus, we have 2 databases: pre-2009 and post-2009. We used 2009 as the reference year since the market bottom occurred in 2009.
 
 Along the way, we did a pivot. 
 
