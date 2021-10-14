@@ -20,7 +20,7 @@ Since the Fed’s QE program began after the 2008 financial crisis, we wanted to
 
 Along the way, we did a pivot. 
 
-We witnessed that the four analysed factors – Fed announcements, interest rates, GDP, and inflation – did not have a strong relationship with the market index. Though, we came upon the VIX (Volatility) Index, which had a strong inverse relationship with the market index that enabled us to create a model to recommend a buy or sell recommendation on the S&P500. 
+We witnessed that the four analysed factors – Fed announcements, interest rates, GDP, and inflation – did not have a strong relationship with the market index. Though, we came upon the VIX (Volatility) Index, which had a strong inverse relationship with the market index that enabled us to create a quant model with a buy or sell recommendation on the S&P500 - SPY ETF. 
 
 Our EDGE factor is the VIX Index.
 
